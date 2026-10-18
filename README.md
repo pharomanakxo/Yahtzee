@@ -214,4 +214,4 @@ Yahtzee is offered as a complete free version with all features and updates incl
 Ready to roll the dice? Download Yahtzee today for a fun and exciting gaming experience!
 
 ---
-**Last updated:** 2026-10-18 16:14:50 UTC
+**Last updated:** 2026-10-18 19:06:13 UTC
